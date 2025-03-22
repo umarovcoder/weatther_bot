@@ -68,5 +68,5 @@ node bot.js
 ---
 
 ## 📞 Aloqa
-Agar muammoga duch kelsangiz yoki takliflaringiz bo‘lsa, GitHub Issues bo‘limida xabar qoldiring yoki [Telegram orqali bog‘laning](https://t.me/yourusername).
+Agar muammoga duch kelsangiz yoki takliflaringiz bo‘lsa, GitHub Issues bo‘limida xabar qoldiring yoki [Telegram orqali bog‘laning](https://t.me/umarov511).
 
